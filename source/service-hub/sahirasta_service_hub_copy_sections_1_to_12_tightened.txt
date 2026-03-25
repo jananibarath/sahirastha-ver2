@@ -1,0 +1,159 @@
+
+Sahirasta Service Hub Copy
+Sections 1-12 | Tightened working draft
+This document contains actual website copy for the Service Hub page. It is separate from the structure document and is intended to remain one continuous working draft.
+Section 1 - Hero
+Section title
+Explore Our Services
+Headline
+Find the right path to recover stuck financial assets.
+Subheadline
+Sahirasta helps individuals, families, legal heirs, widows, and NRIs handle unclaimed shares, IEPF claims, insurance claim issues, provident fund balances, mutual funds, and dormant bank deposits in India.
+Support line
+Start with the category that seems closest to your issue. If you are unsure, this page will help you narrow the route quickly.
+Primary CTA
+Request a Free Consultation
+Secondary CTA
+View Pricing
+Optional trust line
+Structured support for document-heavy, delayed, and post-death financial recovery cases.
+Section 2 - How to Use This Page
+Section title
+How to Use This Page
+Intro paragraph
+Start with the service category closest to your issue. If you already know the problem, go directly to that service. If you are unsure, use the quick guide below and we will help you identify the likely route.
+Guidance point 1
+If the issue involves shares, dividends, old physical certificates, or assets transferred to IEPF, go to Shares & Securities.
+Guidance point 2
+If the issue involves an unpaid insurance amount, a death claim, nominee dispute, lost policy bond, KYC mismatch, or a rejected claim, go to Insurance Claims & Recovery.
+Guidance point 3
+If the issue involves provident fund, mutual funds, or a dormant bank account or deposit, go to PF, Mutual Funds & Bank Deposits.
+Guidance point 4
+If you are an NRI, a legal heir, a widow, or a family member handling matters after a death, you can also use the pathway sections lower on this page.
+Support note
+You do not need to know the exact legal or technical term before contacting Sahirasta. Many cases begin with incomplete records, partial documents, or uncertainty about which route applies.
+Section 3 - Find the Right Service
+Use this quick guide if you are not fully sure which category fits your issue. The goal is not to force you into jargon. It is to help you reach the right service faster.
+If the issue is about shares, dividends, or old certificatesChoose this route if the matter involves IEPF, unclaimed dividends, lost share documents, transmission after death, correction of holder records, or conversion of paper shares into demat form.
+If the issue is about insurance money not being paid correctlyChoose this route if the policy amount was never received, a death claim is pending or rejected, the payout was short-settled, or payment is blocked by records, bank, or KYC issues.
+If the issue is about PF, mutual funds, or bank depositsChoose this route if you are trying to recover an old provident fund balance, trace mutual fund holdings, or reactivate a dormant account or deposit.
+If you are handling matters after the death of a family memberChoose this route if you are a legal heir, widow, child, or other family member trying to sort out claims, transmission, nominee issues, or multiple assets left unresolved.
+If you live outside IndiaChoose this route if you are an NRI and need help handling documents, claims, or follow-up in India without being physically present for every step.Go to Services for NRIs
+If you do not have complete papersChoose this route if certificates, policy bonds, folio details, nomination records, or bank details are missing, outdated, or unclear. In many cases, recovery is still possible.Go to Missing Documents? Not Sure Where to Start?
+If you are still unsureStart with a consultation instead of guessing. A short review can usually identify whether the issue is likely to involve shares, insurance, PF, mutual funds, or a mixed family claim.
+Optional bridge line for the pageBelow, you will find the full service categories along with the kinds of problems each one covers. Use them to go directly to the service most relevant to your situation.
+Implementation note: keep this section simple on the live page. The goal is fast recognition and direction, not a giant decision tree.
+Section 4 - Shares & Securities
+Section title
+Shares & Securities
+Intro paragraph
+This section covers share-related recovery and regularisation services. It is for investors, families, legal heirs, widows, senior citizens, and NRIs dealing with unclaimed dividends, shares transferred to IEPF, missing physical certificates, transmission after a death, or legacy holdings that still carry outdated details.
+Support line
+These issues often overlap. A family may discover old paper certificates after a death, find that records no longer match current documents, and then realise part of the holding has already moved to IEPF. The right route depends on what is wrong with the holding, how old the records are, and who is now entitled to claim.
+Section CTA line
+Explore the routes below and choose the one closest to your issue. If you are not sure which route applies, start with a consultation instead of guessing.
+IEPF Claims
+Recover shares, dividends, matured deposits, debentures, and other eligible amounts that have already moved to the Investor Education and Protection Fund because they remained unclaimed for too long.
+Best for: investors or families discovering that dividends were never received and old holdings have moved out of direct control
+Duplicate / Lost Share Documents
+Use this route when original physical share certificates are lost, damaged, stolen, or no longer usable, and proof of ownership must be rebuilt before the holding can move further.
+Best for: people with old paper shareholdings who cannot produce the original certificates
+Transmission of Shares
+Use this route when a shareholder has died and the shares must be moved to the nominee, surviving joint holder, legal heir, beneficiary, executor, or other entitled claimant.
+Best for: widows, children, families, and legal heirs dealing with share ownership after a death
+Physical Shares to Demat
+Convert valid paper shareholdings into electronic form so the securities become active, traceable, and easier to manage, sell, consolidate, or pass on later.
+Best for: holders of old physical shares that still exist but have never been dematerialised
+Transmission-cum-Demat
+Use this combined route where death-related ownership change and conversion of physical shares into demat form can sensibly be handled together in one coordinated process.
+Best for: families dealing with physical share certificates left behind by a deceased holder
+Name / Signature / Address Correction
+Fix mismatches or outdated holder records such as name, signature, address, bank, PAN, or KYC-linked details when those defects block dividends, demat, transmission, duplicate issuance, or IEPF recovery.
+Best for: investors whose holdings are valid but cannot move forward because the records no longer match current documents
+Bridge paragraph
+Many share-related matters involve more than one step. A missing certificate case may also need record correction. A post-death case may first require transmission and then demat. A holding may need to be traced before it can be claimed. Use the cards below as a starting point, not as hard silos.
+Closing line
+If you are unsure whether your case is IEPF, duplicate share documents, transmission, demat, or a record-correction issue, request a review and Sahirasta can help identify the right route.
+Section 5 - Insurance Claims & Recovery
+Section title
+Insurance Claims & Recovery
+Intro paragraph
+This section covers insurance amounts and claim problems that are stuck, delayed, disputed, or blocked by documentation. It is for policyholders, nominees, widows, legal heirs, and families trying to recover money linked to life insurance or related policy benefits.
+Support line
+Insurance cases rarely fit into one box. A death claim may also involve a nominee mismatch, a lost policy bond, old bank details, policy-loan adjustment, or outdated insurer records. Start with the problem you can identify most clearly.
+Section CTA line
+Choose the block that best matches your issue. If the case cuts across more than one problem, begin with a consultation and we can identify the right claim path.
+Unclaimed Maturity & Survival Benefits | Use this route when policy proceeds or scheduled payouts were due but never received, remain unclaimed, or are stuck because the final payout process was not completed. This includes maturity amounts, survival benefits, and other policy-linked payouts that should have been released but did not reach the claimant.
+Death Claims & Family Support | Use this route when a policyholder has died and the nominee, widow, legal heir, or family member needs help filing, tracking, regularising, or following up on the claim. This route is especially relevant where the family is unsure what documents are needed or where the policy details are old or incomplete.
+Rejected or Short-Settled Claims | Use this route when the insurer has denied the claim, delayed it without proper closure, or released less than expected and the matter needs review, clarification, representation, or escalation. It is meant for disputes where the claim amount itself is in question.
+Policy Records, Bond, Nominee, KYC & Loan Issues | Use this route when payment is blocked because of a lost policy bond, nominee problem, outdated KYC, wrong address or bank details, policy-loan complication, or insurer records that do not match the claimant’s documents. This is the cleanup route that unblocks many stalled insurance cases.
+Bridge paragraph
+Insurance problems often overlap. A death claim may begin as a nominee issue and then turn into a records-mismatch problem. An unpaid maturity amount may also involve bank details, address updates, or policy servicing gaps. Use the blocks below to identify the main problem first.
+Closing line
+If you are not sure whether your issue is an unpaid benefit, a death claim, a rejected claim, a short settlement, or a policy-record problem, start with a consultation instead of guessing.
+Section 6 - PF, Mutual Funds & Bank Deposits
+Section title
+PF, Mutual Funds & Bank Deposits
+Intro paragraph
+This section covers financial assets that are often forgotten, left inactive, or blocked because the holder changed jobs, shifted address, stopped tracking old investments, or died without leaving a clear record. It covers provident fund, mutual funds, and dormant bank deposits.
+Support line
+These cases are easy to miss because they do not always leave obvious paperwork at home. Families often discover them only during a claim review, succession process, job-history check, or broader asset search.
+Section CTA line
+Choose the block closest to your issue. If you are not sure whether the money sits with EPFO, a mutual fund or RTA, or a bank, start with a consultation instead of guessing.
+Unclaimed Provident Fund
+Use this route when PF money is stuck in an old employment-linked account, an old UAN/member ID trail is incomplete, or the family is trying to claim PF after the death of the account holder.
+Unclaimed Mutual Funds
+Use this route when folios are inactive, investments cannot be traced properly, redemption or transmission is blocked, or the family knows units exist but cannot access them easily.
+Dormant / Inoperative Bank Deposits
+Use this route when an account or deposit has become inactive, the bank relationship is old, the holder has died, or payout is blocked because of KYC, nomination, or reactivation issues.
+Bridge paragraph
+PF, mutual fund, and bank-deposit cases can overlap with succession issues, KYC correction, nominee gaps, and missing records. A family may first come looking for one asset and later discover several. Use the blocks below as the starting point.
+Closing line
+If you are unsure whether the issue is PF, mutual funds, or a dormant bank deposit, begin with a review of the available documents and the family or employment history. That is often the quickest way to identify the right route.
+Section 7 - Services for NRIs
+If you live outside India, Sahirasta can help you identify and navigate the right route for unclaimed shares, IEPF matters, insurance claims, provident fund balances, mutual funds, and dormant bank deposits in India.
+Many NRI cases remain unresolved because contact details changed, records were never updated, or family members do not know which company, insurer, fund house, or bank to approach.
+Shares, IEPF, and legacy holdings — Recover shares transferred to IEPF, deal with old physical certificates, handle transmission after a death, and correct folio or holder records that no longer match current documents.
+Insurance claims and policy servicing issues — Resolve unpaid maturity amounts, death claims, lost policy records, nominee complications, and KYC, bank, or address mismatches that block payout.
+PF, mutual funds, and dormant bank deposits — Trace employment-linked balances, inactive folios, and long-forgotten deposits that were never claimed or can no longer be accessed easily.
+CTA line: If you are an NRI and you are not sure which service fits your case, start with a review rather than trying to guess the route yourself.
+Bridge paragraph: Some NRI matters can be assessed and advanced remotely. Others may still need specific documents, local coordination, or institution-side follow-up. The key is to identify the right route early and move in an organised way.
+Section 8 - Services for Legal Heirs, Widows, and Families
+When a family member dies, financial claims often surface late. Sahirasta helps legal heirs, widows, and families sort out shares, insurance, PF, mutual funds, and bank deposits that remain in the original holder’s name.
+Many families do not know whether they need transmission, an insurance death claim, an IEPF route, a succession-linked document set, or simply help tracing where the money may be.
+Shares and investments after a death — Handle transmission of shares, transmission-cum-demat, unclaimed dividends, IEPF-linked holdings, and record corrections needed before a claim can move forward.
+Insurance claims for families — Handle death claims, nominee issues, missing policy records, unpaid benefits, and disputes involving rejection or short settlement.
+Tracing and recovering other financial assets — Review provident fund balances, mutual fund holdings, and dormant deposits that the family did not know existed or could not access.
+Common situations include: my husband handled all the investments, my father passed away and we found papers later, we do not know which assets still exist, or the records are still in the old name.
+CTA line: If you are handling claims after a death, begin with the asset type you know. If you are unsure, request a review and we will help identify the likely route.
+Section 9 - Missing Documents? Not Sure Where to Start?
+If you have incomplete papers or are not even sure what the asset is, you are not alone. Many real cases begin with fragments: an old statement, a policy number, a company name, a passbook, or a family memory that something once existed.
+Incomplete records do not automatically mean the case is impossible. Many claims can still be traced and classified using the clues available, the asset type, and the institutions involved.
+I have papers, but I do not know what they mean — Start with a review rather than trying to classify the issue alone.
+I think there was an investment, but I have very little information — Depending on the asset type and the available clues, route identification may still be possible.
+The records are incomplete, outdated, or in the wrong name — Sahirasta can help sort out record issues before or alongside the main claim.
+Bridge paragraph: This section is meant to keep uncertain users moving. It should be honest that outcomes depend on the asset type, the records available, and the institution involved, without turning into a wall of disclaimers.
+Closing line: If you are not sure what category your case belongs to, do not guess. Share the basic details you have, and we will help identify the likely route.
+Section 10 - How Sahirasta Helps
+Sahirasta helps by taking a problem that feels scattered, technical, or emotionally heavy and turning it into a workable route. Whether the issue involves shares, IEPF, insurance, PF, mutual funds, bank deposits, succession, or missing records, the service hub is here to show that there is a practical next step.
+Some visitors know the exact category they need. Others only know that something is stuck, unpaid, or unresolved. Sahirasta is built to assist both.
+Step 1: Understand the issue — Start with the category that seems closest to your situation, even if you are not completely certain.
+Step 2: Review the available records — Old statements, policy papers, share certificates, emails, passbooks, nominee details, or family papers can all help identify the right route.
+Step 3: Clarify the likely path — Sahirasta helps determine whether the matter is an IEPF claim, transmission issue, insurance claim problem, PF or mutual fund recovery, dormant deposit issue, or a mixed case.
+Step 4: Assess complexity — The likely route depends on factors such as age of records, KYC gaps, death-related claims, missing documents, bank mismatch, nominee issues, or succession requirements.
+Step 5: Move toward resolution — Once the route is clearer, the next step is a focused review, document gathering, and guided execution.
+Bridge paragraph: The goal is not to pretend every case is simple. The goal is to show that even difficult cases can usually be broken into identifiable steps.
+Closing line: If your case may involve more than one issue, or if you are unsure which path applies, start with a review rather than trying to solve the classification alone.
+Section 11 - Pricing Snapshot
+Sahirasta follows a pricing model that is straightforward in logic even when the underlying case is not. In most matters, the fee is generally around 10% of the value recovered, with the final fee depending on the complexity of the records, the nature of the claim, and the work involved in execution.
+A straightforward correction case, a clean recovery matter, and a succession-heavy case with missing records should not all be priced the same way. The final commercial proposal is therefore shared after the broad facts are reviewed.
+General fee logic — Fees are usually linked to the value recovered and the effort needed to move the case forward.
+Complexity matters — Missing records, death-related claims, old physical documents, KYC mismatches, nominee disputes, and multi-stage execution can change the fee.
+Clarity before work begins — The pricing approach should be explained before execution starts, so the client understands both the logic and the likely scope.
+Closing line: If you want to understand how the fee may apply to your situation, review the Pricing page or request a consultation.
+Section 12 - Need Help Choosing the Right Service?
+If you have reached this page and still are not sure where your case fits, that is normal. Many real situations do not arrive neatly labelled. A family may be dealing with shares, insurance, PF, and old bank records at the same time. An NRI may know there was an investment but not the exact route. A widow may have some papers but not the full picture.
+You do not need to classify the problem perfectly before reaching out. The next step can simply be to share the broad facts and let Sahirasta identify the likely path.
+I know the category, but I need help executing it — Move to the detailed service page or request a focused review.
+I do not know the category, or the case may involve multiple issues — Request a consultation and explain the situation in plain language.
+Final CTA line: Need help choosing the right service? Request a free consultation and let Sahirasta review the case.

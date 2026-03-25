@@ -1,0 +1,11 @@
+body{font-family:Arial,sans-serif;color:#1f2937;line-height:1.6;margin:0;background:#fff}
+.wrap{width:min(1040px,92%);margin:0 auto}
+.site-header,.site-footer{background:#0f172a;color:#fff}
+.site-header .wrap,.site-footer .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 0}
+.brand{color:#fff;text-decoration:none;font-weight:700}
+.site-header ul{display:flex;gap:14px;list-style:none;margin:0;padding:0;flex-wrap:wrap}
+.site-header a{color:#fff;text-decoration:none}
+.site-main{padding:28px 0 64px}
+.page-content h1{margin-top:0}
+.sahirastha-whatsapp{position:fixed;right:18px;bottom:18px;background:#16a34a;color:#fff;padding:10px 14px;border-radius:999px;text-decoration:none;font-weight:700;z-index:20}
+@media (max-width:768px){.site-header .wrap{flex-direction:column;align-items:flex-start;gap:10px}}

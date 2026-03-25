@@ -1,0 +1,67 @@
+
+Sahirasta — Pathway Pages Copy Master
+Pathway 1: For NRIs
+Working draft for website implementation
+1. Hero Section
+Page headline: Recover Old Indian Financial Assets Without Guessing the Route From Abroad
+Subheadline: If you live outside India and are dealing with old shares, IEPF issues, insurance policies, provident-fund balances, mutual-fund folios, or dormant bank deposits, Sahirasta helps identify the right route and prepare the case in a more organised way.
+Support line: Many NRI cases do not fail because the money does not exist. They stall because the records stayed in India, the paperwork went stale, or no one is sure which institution now holds the matter.
+Primary CTA: Request a Case Review
+Secondary CTA: See What This Pathway Covers
+2. What Is This Pathway?
+This is not one single claim service. It is a situation-based page for people living outside India whose financial issue may sit under shares, IEPF, insurance, provident fund, mutual funds, or dormant bank deposits.
+The real difficulty in many NRI matters is not only entitlement. It is route confusion. People know there was money, a policy, a folio, a deposit, or an old holding — but they do not know what category the problem belongs to or what has to be fixed first.
+That is why this page should move the user away from guessing and toward classification. Once the asset type and blocker are identified, the case can be handled through the relevant service route.
+3. Who This Page Is For
+NRIs trying to recover or regularise old Indian financial assets that were left untouched after moving abroad.
+NRIs whose Indian records no longer match current address, bank details, signatures, contact details, or KYC position.
+People who know an asset exists in India but are not sure whether it belongs under shares, IEPF, insurance, PF, mutual funds, or bank deposits.
+Families living abroad who are trying to sort out claims after the death of a parent, spouse, or other relative who held assets in India.
+NRIs dealing with incomplete papers, old statements, scattered documents, or family-level uncertainty about what still remains claimable.
+4. Common NRI Situations
+You moved abroad years ago and old Indian investments or policies were never reviewed again.
+Your parents or another family member handled the paperwork in India, but the record trail is now incomplete.
+A payout was expected, but the money never arrived because the bank, address, contact, or servicing records were outdated.
+You found old papers, but you do not know whether the issue is an IEPF claim, an insurance payout, a PF matter, a mutual-fund folio issue, or a dormant bank deposit.
+The original holder has died and the family abroad is now trying to understand what can still be claimed and through which route.
+You know the institution loosely, but not the exact folio, policy, account, member ID, or servicing branch now handling the matter.
+5. What Sahirasta Can Help NRIs With
+Sahirasta does not position this page as a vague NRI help desk. The purpose is practical: identify the asset type, identify the blocker, and move the matter into the correct detailed service route.
+Shares and IEPF matters may include old physical holdings, transmission after a death, holder-record corrections, or assets that have already moved to IEPF and now need a formal recovery route.
+Insurance matters may include unpaid maturity amounts, missed survival benefits, death claims, nominee issues, lost policy records, or payouts blocked because old insurer records no longer match current details.
+Provident-fund, mutual-fund, and bank-deposit matters may include old employment-linked balances, unclaimed redemption amounts, blocked folios, or dormant accounts and deposits that still sit within the Indian financial system.
+This pathway page should therefore bridge users into the relevant service page once the case is classified, instead of pretending that every NRI matter is one standard process.
+6. What Usually Needs To Be Put Together
+The document set varies by asset type, but NRI matters usually move only when the record trail is rebuilt properly. Commonly relevant documents may include:
+Passport or other identity proof of the claimant.
+Current overseas address proof and current contact details.
+PAN, bank proof, and institution-side KYC documents where applicable.
+Old Indian records such as share certificates, folio numbers, policy copies, PF / UAN details, statements, passbooks, account references, or insurer / company / bank correspondence.
+Death certificate, relationship proof, nomination papers, and legal-heir or succession-linked documents where the matter arises after a death.
+Signed forms, attestations, declarations, or institution-specific papers required for remote or overseas handling.
+The point is not to force one master checklist on every NRI. The point is to gather enough usable evidence to identify the right institution and the right claim route.
+7. Why NRI Cases Get Delayed or Stuck
+The user tries to push the matter before first identifying the correct asset category and route.
+Old Indian records do not match the claimant’s present identity, address, bank details, signature style, or servicing information.
+The asset is known in principle, but the exact company, insurer, AMC, registrar, branch, or EPFO record trail is weak.
+The case has a second layer of complexity such as death, nomination defects, missing papers, or legal-heir issues.
+Distance itself creates friction. Some matters can be advanced remotely, but others still need closer coordination, document formalities, or institution-level follow-up in India.
+In other words, the overseas element does not create a new asset type. It makes ordinary asset problems harder to execute unless the case is organised properly.
+8. Practical Notes and Limitations
+This page should stay honest. Not every NRI matter can be solved quickly, and not every case can be built from one old paper or one family memory alone.
+Outcomes depend on the asset type, the quality of the records, the institution involved, and whether enough documents exist to establish ownership, entitlement, and the correct servicing route.
+Remote handling helps in many cases, but it does not cancel institution-side requirements. Some matters still demand document rebuilding, closer follow-up, or additional family-level clarification before they become claim-ready.
+9. Frequently Asked Questions
+Can I start an Indian asset recovery or regularisation matter while living abroad?
+Often yes. The real question is not where you live, but whether the asset can be identified clearly enough and whether the necessary documents can be assembled in the form the institution will accept.
+What if I am not sure what type of asset the issue belongs to?
+That is common. Many NRI cases begin with fragments — an old statement, a policy copy, a company name, a PF clue, or a family memory. The first job is classification, not filing blindly.
+Do I need to travel to India for every matter?
+Not always. Some cases can move substantially through remote documentation and organised follow-up. Others may still need local coordination or additional execution steps depending on the institution and the document gaps.
+What if the Indian address, bank details, or KYC records are outdated?
+That is one of the most common reasons cases stall. Before money can move, the old record trail often has to be aligned with present details and the current claimant profile.
+Can Sahirasta help when the original holder has died and the family is overseas?
+Yes, where the case is within scope. But family-led matters are usually more document-heavy because entitlement, nomination, relationship, and asset identification all have to be read together before the claim route becomes clear.
+10. Final CTA
+If you live outside India and are trying to sort out old shares, IEPF-linked holdings, insurance policies, provident-fund balances, mutual-fund folios, or dormant bank deposits, do not lose time guessing the route from abroad.
+Start with a case review. Sahirasta can help identify the likely asset category, the likely blocker, and the next practical step before effort is wasted on the wrong institution or the wrong paperwork.
