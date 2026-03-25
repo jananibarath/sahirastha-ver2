@@ -1,0 +1,14 @@
+/*
+Theme Name: Sahirastha
+Theme URI: https://sahirastha.example
+Author: Sahirastha
+Version: 1.0.0
+Description: Founder-led asset recovery WordPress theme.
+Text Domain: sahirastha
+*/
+
+body { font-family: Arial, sans-serif; margin: 0; line-height: 1.6; }
+main { max-width: 980px; margin: 0 auto; padding: 1rem; }
+nav ul { display: flex; flex-wrap: wrap; gap: 1rem; list-style: none; margin: 0; padding: 1rem; }
+.sahirastha-whatsapp { position: fixed; right: 1rem; bottom: 1rem; background: #25d366; color: #fff; padding: .7rem 1rem; border-radius: 999px; text-decoration: none; font-weight: 700; }
+@media (max-width: 768px) { nav ul { flex-direction: column; } }
