@@ -1,0 +1,48 @@
+/*
+Theme Name: Sahirastha
+Theme URI: https://sahirastha.in
+Author: Sahirastha
+Description: Gutenberg-friendly theme with seeded service pages for Sahirastha.
+Version: 1.0.0
+Text Domain: sahirastha
+*/
+
+:root {
+  --sahirastha-text: #13212b;
+  --sahirastha-muted: #4c5d69;
+  --sahirastha-accent: #0a5f8a;
+  --sahirastha-bg: #f6f8fa;
+}
+
+body {
+  color: var(--sahirastha-text);
+}
+
+.entry-content,
+.sahirastha-service-page {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.sahirastha-service-hero {
+  background: var(--sahirastha-bg);
+  border: 1px solid #d7e0e8;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.sahirastha-service-hero p {
+  margin: 0.5rem 0;
+  color: var(--sahirastha-muted);
+}
+
+.sahirastha-service-links ul {
+  padding-left: 1.2rem;
+}
+
+@media (max-width: 782px) {
+  .sahirastha-service-hero {
+    padding: 1rem;
+  }
+}
