@@ -1,0 +1,213 @@
+
+Sahirasta Homepage CopySections 1 to 12 - Tightened Draft
+Internal homepage copy draft prepared from the Sahirasta master service sheets. Section 3 contains number placeholders pending source verification. Section 9 contains draft testimonial and case-story models only and must be replaced with real approved client material before publication.
+Section 1 — Hero
+Content goal: State the business clearly, establish seriousness, and move visitors toward consultation or services.
+Headline
+Recover Stuck Financial Assets with Expert Help
+Subheadline
+Sahirasta helps individuals, families, legal heirs, widows, and NRIs recover unclaimed, blocked, forgotten, or document-troubled financial assets in India, including IEPF claims, shares, insurance, provident fund, mutual funds, and dormant bank deposits.
+Support line
+Clear guidance. Serious handling. Practical support for difficult cases.
+Primary CTA
+Request a Free Consultation
+Secondary CTA
+Explore Services
+Optional micro-copy under the CTAs
+Not sure where your money is stuck? Start with a case review.
+Section 2 — Problems We Solve
+Content goal: Help visitors identify their problem quickly and see that Sahirasta handles messy real-world cases, not just clean textbook claims.
+Section intro copy
+Many people suspect money is due to them or their family. What stops them is not always the money - it is the confusion. Records are old, documents are missing, names do not match, nominations are outdated, and different institutions ask for different paperwork. Sahirasta helps identify the issue, organise the documents, and move the case forward.
+IEPF claims
+Shares and dividends may have moved to IEPF after years of inaction, even though the investor or family still has a valid claim.
+Lost share documents and old physical shares
+Physical certificates, folio details, or old records may be missing, damaged, or never converted into demat form.
+Transmission after death
+Families, widows, nominees, and legal heirs often need help establishing title and completing the paperwork after the death of an investor or policyholder.
+Insurance claims delayed, rejected, or unpaid
+Maturity amounts, death claims, survival benefits, or policy proceeds may remain unpaid because of missing records, nominee issues, KYC gaps, or claim disputes.
+Unclaimed provident fund and mutual funds
+Old employment-linked PF balances or mutual-fund folios may remain unattended for years because the account trail is incomplete or forgotten.
+Dormant or inoperative bank deposits
+Fixed deposits and bank balances can remain untouched for years, especially after relocation, family transitions, or the death of the account holder.
+Correction and compliance blockers
+Name mismatch, signature mismatch, address change, outdated bank details, missing nomination, or incomplete KYC can stop an otherwise valid claim.
+NRI and cross-border cases
+NRIs often face an extra layer of friction because the assets are in India but the claimant, documents, or bank details are abroad.
+Section 3 — Where Could Your Money Be Stuck?
+Content goal: Create urgency, show category breadth, and give the homepage some numerical weight without using unverified figures.
+Section intro copy
+Large amounts remain unclaimed across multiple financial asset categories in India. Many people do not know where to look, and many families discover these assets only years later while reviewing old documents, bank records, policy papers, or estate files.
+Category
+Amount / figure
+Copy block
+IEPF
+[Insert verified number]
+Shares, dividends, deposits, or debentures may have moved to the Investor Education and Protection Fund after remaining unclaimed for years.
+Insurance
+[Insert verified number]
+Maturity proceeds, death claims, survival benefits, and other policyholder amounts can remain unpaid or fall into unclaimed-amount buckets with insurers.
+Provident Fund
+[Insert verified number]
+Old employment-linked balances may still be sitting in PF accounts because they were never transferred, withdrawn, or properly claimed.
+Mutual Funds
+[Insert verified number]
+Old folios can remain unpaid or blocked because of outdated bank details, incomplete KYC, missing nomination, or investor death.
+Bank Deposits
+[Insert verified number]
+Dormant accounts and long-forgotten deposits can still belong to the depositor or rightful heirs, but recovery usually requires bank-side reactivation or claim processing.
+Closing copy under the number block
+If you are not sure which category applies, that is common. A claim may begin as an insurance issue, a transmission issue, or an old-share issue and later turn out to involve IEPF, nominee problems, KYC gaps, or dormant bank details. Sahirasta helps identify the likely route and the documents needed to move the case forward.
+Primary CTA line for this section
+Think money may be due to you or your family? Request a free consultation and let Sahirasta help you understand where to begin.
+Section 4 — Not Sure Where to Begin? Start Here
+Content goal: Catch visitors who know they have a problem but do not know the correct route yet.
+Section intro copy
+Not every case arrives with a neat label. A person may know that dividends stopped coming, a policy was never paid, old share papers have surfaced, or a family member has passed away and the financial trail is unclear. Sahirasta helps identify the likely category, the likely next step, and the documents that matter most.
+Guided path options
+I know what my issue is
+Go straight to the relevant service and understand the likely route, documents, and practical issues involved.
+I think money may be unclaimed, but I am not sure where
+Start with the broad categories and identify whether the issue is more likely to involve IEPF, insurance, PF, mutual funds, bank deposits, or old share records.
+I have documents but do not know what they mean
+Share the available papers, statements, certificates, or policy details and let Sahirasta help identify the likely path.
+A family member has passed away and we are trying to sort out investments or policies
+Start with the legal-heir and family support route so the claim can be mapped correctly across shares, insurance, bank deposits, PF, or mutual funds.
+Section support line
+You do not need to diagnose the problem before reaching out. Many cases become clear only after the documents are reviewed.
+Primary CTA line for this section
+Not sure where to begin? Request a free consultation and we will help you identify the likely route.
+Section 5 — Our Services
+Content goal: Present the full service map clearly without sounding vague, bloated, or corporate.
+Section intro copy
+Sahirasta handles recovery and resolution across shares, insurance, provident fund, mutual funds, and bank deposits. The service mix is broad enough for real-world cases but structured clearly enough for visitors to see where their issue is likely to fit.
+Service clusters
+Shares & Securities
+IEPF claims; duplicate or lost share documents; transmission of shares; physical shares to demat; transmission-cum-demat; and name, signature, or address correction.
+Insurance Claims & Recovery
+Unclaimed maturity and survival benefits; death claim support; rejected or short-settled claims; and lost policy bond, nominee, KYC, loan, or old-record issues.
+PF, Mutual Funds & Bank Deposits
+Unclaimed provident fund; unclaimed mutual funds; dormant or inoperative bank deposits.
+Section support line
+If you are not sure which category applies, Sahirasta can review the situation and help identify the most likely route before deeper work begins.
+Primary CTA line for this section
+Explore the services or request a consultation to discuss your case.
+Section 6 — Who We Help
+Content goal: Show that Sahirasta understands different real-life claimant situations, not just ideal paperwork cases.
+Section intro copy
+Sahirasta is built for people dealing with confusion, delay, old records, and difficult documentation. Some clients know exactly what the issue is. Others only know that something was left behind, something stopped coming, or something remains unresolved after a death, relocation, or long period of inaction.
+Audience blocks
+Individual investors
+People trying to recover their own shares, dividends, insurance proceeds, PF balances, mutual funds, or bank deposits.
+Legal heirs, widows, and families handling claims after a death
+Families who need help tracing assets, establishing entitlement, and moving through transmission or claim procedures.
+NRIs
+Clients based outside India who need support handling Indian financial assets, documents, and institution-facing follow-up.
+Senior citizens
+Older claimants who may be dealing with legacy paperwork, long-held investments, or documentation that has not been updated for years.
+Clients with incomplete or missing records
+People who do not have perfect paperwork but still need help identifying the likely route and understanding what can still be done.
+Section support line
+A missing document does not always end the matter. Many cases can still move forward once the issue is understood properly and the right records are assembled.
+Primary CTA line for this section
+Need help understanding your situation? Request a free consultation and tell us what you know so far.
+Section 7 — How Sahirasta Works
+Content goal: Reduce uncertainty, show a disciplined process, and make the next step feel straightforward.
+Section intro copy
+Financial recovery cases are rarely solved by one form or one call. Most require documents to be reviewed carefully, the correct route to be identified, and follow-up to be handled with patience. Sahirasta uses a practical step-by-step process so clients understand what happens next and what may affect timing or complexity.
+Process steps
+Step
+Copy block
+1. Initial discussion
+The case begins with a review of the asset type, institution involved, key dates, available records, and the immediate problem.
+2. Document review and issue mapping
+Available papers, statements, certificates, policy details, folio references, bank details, or family records are examined so the likely route can be identified properly.
+3. Feasibility and route assessment
+Some cases are straightforward. Others involve succession issues, mismatches, missing records, dormant accounts, or multiple institutions. The likely route is mapped before deeper work begins.
+4. Scope and fee proposal
+Once the issue is understood, Sahirasta shares the likely scope of assistance, the broad work involved, and the fee logic based on the nature and complexity of the case.
+5. Case execution and follow-up
+Forms, supporting papers, correction steps, submissions, and follow-ups are handled according to the service involved, including coordination across companies, insurers, RTAs, depositories, PF systems, or banks.
+6. Resolution, recovery, and next steps
+Once the matter reaches resolution, the client is guided on the recovery outcome, any final paperwork, and any related clean-up still required.
+Section support line
+Some matters move quickly. Others take longer because records are old, the ownership trail is unclear, or the institution requires additional verification. The process is designed to create order early so the case does not wander in circles.
+Primary CTA line for this section
+Want to understand how your case is likely to move? Request a free consultation and we will help map the next step.
+Section 8 — Why Choose Sahirasta
+Content goal: Build trust through clarity, seriousness, and accountability instead of pretending to be a giant institution.
+Section intro copy
+Sahirasta is not positioned as a generic financial-services website. It is built for cases where money is due but the path to recovery is blocked by paperwork, mismatch issues, succession complexity, or institutional process. The difference lies in how the matter is understood, explained, and pursued.
+Why Sahirasta stands apart
+Reason
+Copy block
+Clear guidance from the start
+Clients are told what the likely issue is, which documents matter most, and what practical obstacles may arise. The goal is clarity, not jargon.
+Founder-led accountability
+Cases are handled with direct ownership and seriousness so the client does not feel shuffled through a vague machine or buried under generic responses.
+Strong handling of messy documentation cases
+Old share papers, incomplete records, name mismatches, nominee gaps, legacy insurance paperwork, and succession-linked complexity are treated as normal realities, not as reasons to dismiss the matter prematurely.
+Support for families, widows, legal heirs, and NRIs
+Many cases involve death, relocation, long periods of inaction, or distance from India. Sahirasta is designed around those real-world circumstances.
+Practical fee logic
+Fees are discussed with reference to the nature of the claim and the work involved, rather than hidden behind vague promises or generic package language.
+Section support line
+The aim is not to look big on paper. The aim is to make the client feel that the case is being understood properly, explained clearly, and handled with discipline.
+Primary CTA line for this section
+Looking for clear, serious help with a stuck claim? Request a free consultation and let Sahirasta review the situation.
+Section 9 — What Clients Say
+Content goal: Add trust and emotional proof. These are internal draft models only until real client-approved testimonials are available.
+Internal publishing note
+Do not publish these as real testimonials. They are draft case-story directions based on the kinds of matters Sahirasta is expected to handle. Replace each one with a real, client-approved testimonial or case summary before the website goes live.
+Draft testimonial / case-story models
+Case type
+Draft testimonial / case-story copy
+IEPF recovery case
+We had old share-related papers in the family but did not know whether the matter involved IEPF or something else. Sahirasta explained the route clearly, told us what was missing, and brought structure to a problem that had been untouched for years.
+Widow / legal-heir case
+After my husband passed away, the paperwork around investments and policies felt overwhelming. Sahirasta helped us understand which claims needed transmission, which needed insurance follow-up, and which documents mattered first.
+NRI case
+From outside India, it was difficult to understand which records were required and what could be handled remotely. Sahirasta broke the issue into practical steps and gave us a much clearer view of what was needed.
+Case type
+Draft testimonial / case-story copy
+Insurance claim difficulty
+The claim did not move smoothly and we kept getting stuck between forms, records, and follow-up requirements. Sahirasta helped identify the real blockers and turn a vague problem into a concrete process.
+Old physical shares / demat issue
+We had old share papers but did not know whether the issue was duplication, dematerialisation, or correction. Sahirasta reviewed the documents and helped identify the correct path instead of wasting time on the wrong one.
+Dormant account / old asset discovery
+We only had partial records and were not even sure what category the money belonged to. Sahirasta helped us understand where to start and what to look for, which gave us confidence to move forward.
+Section support line
+As real client feedback is collected, this section should balance short testimonials with brief case-story proof so visitors can see both the emotional and practical value of the service.
+Primary CTA line for this section
+Have a case that feels confusing, old, or stuck? Request a free consultation and let Sahirasta review it.
+Section 10 — How Our Fees Work
+Content goal: Reduce hesitation by showing the fee logic clearly and calmly without pretending that every case can be priced upfront.
+Section intro copy
+Sahirasta does not use vague promises or one-size-fits-all packages. Most matters in this space depend on the age of the records, the quality of the documents, whether succession issues are involved, and how much coordination is required across companies, registrars, insurers, banks, or government-linked systems. For many cases, the fee is generally around 10% of the value recovered. In some matters it may be lower or higher depending on complexity. The final fee is shared after the problem and available information are reviewed.
+Pricing clarity note
+This allows clients to understand the commercial approach before the work begins, while recognising that a straightforward recovery case and a messy legacy case do not require the same effort. If a matter needs a different fee structure because of unusual documentation gaps, succession issues, or other complexity, that will be explained at the proposal stage.
+Section support line
+The objective is simple: make the fee model understandable, proportionate, and linked to the real work involved.
+Primary CTA line for this section
+Want to understand how the fee may apply to your case? Request a free consultation and we will review the broad situation before discussing the next step.
+Section 11 — Request a Free Consultation
+Content goal: Convert interest into action with a short, low-friction form and clear reassurance about what happens next.
+Section intro copy
+If you believe money, shares, insurance proceeds, PF, mutual funds, or bank deposits may be due to you or your family, the best next step is to share the broad outline of the issue. You do not need every answer before reaching out. Many cases become clearer only after the documents and history are reviewed.
+Suggested form helper copy
+The consultation form should ask only for the essentials: name, phone number, email address, whether the enquiry is from India or abroad, the type of issue involved, and a short description of the problem. Optional document sharing can happen after the first response if needed.
+Confidentiality note
+All information shared with Sahirasta should be treated as confidential and used only for the purpose of understanding the case and guiding the next step.
+Response expectation line
+After the enquiry is submitted, Sahirasta should acknowledge it, review the broad details, and indicate the likely route for the matter.
+Primary CTA line for this section
+Request a free consultation and let Sahirasta review the situation.
+Section 12 — Final CTA
+Content goal: Close the homepage with a direct, reassuring final prompt that pushes serious visitors to act.
+Section intro copy
+Many financial claims remain unresolved simply because people are unsure where to begin, assume the records are too old, or believe the paperwork is impossible to fix. In reality, many cases move forward once the issue is identified properly and the process is handled in a disciplined way.
+Closing reassurance copy
+You do not need to arrive with a perfect diagnosis. If the case involves unclaimed shares, IEPF, insurance, PF, mutual funds, dormant bank deposits, or old documentation problems, Sahirasta can help assess the likely route and the practical next step.
+Primary CTA line for this section
+Have a stuck financial claim? Request a free consultation and let Sahirasta review it.
