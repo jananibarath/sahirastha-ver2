@@ -1,0 +1,13 @@
+:root{--bg:#f7f7f5;--text:#202426;--muted:#4b555a;--accent:#0f4c5c;--card:#fff;--border:#d6dcdf}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--text);background:var(--bg);line-height:1.6}
+.container{max-width:1040px;margin:0 auto;padding:0 1rem}.site-main{padding-top:2rem;padding-bottom:4rem}
+.site-header{background:#fff;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:20}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:68px}
+.brand{text-decoration:none;font-weight:700;color:var(--text)}.menu-list{display:flex;gap:.9rem;list-style:none;padding:0;margin:0;flex-wrap:wrap}.menu-list a{text-decoration:none;color:var(--muted);font-size:.95rem}
+.page-content{background:var(--card);padding:1.5rem;border:1px solid var(--border);border-radius:10px}h1{line-height:1.25;margin-top:0;font-size:clamp(1.6rem,4vw,2.1rem)}h2{margin-top:1.8rem;font-size:clamp(1.2rem,2.5vw,1.45rem)}
+a{color:var(--accent)}
+.site-footer{border-top:1px solid var(--border);background:#fff;padding:2rem 0}.footer-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+.whatsapp-float{position:fixed;bottom:1rem;right:1rem;background:#25d366;color:#052f14;text-decoration:none;font-weight:700;padding:.7rem 1rem;border-radius:999px;box-shadow:0 5px 20px rgba(0,0,0,.18)}
+.sahirastha-contact-form input,.sahirastha-contact-form textarea{width:100%;padding:.65rem;border:1px solid var(--border);border-radius:6px}
+.sahirastha-contact-form button{background:var(--accent);color:#fff;border:0;padding:.7rem 1rem;border-radius:8px;cursor:pointer}
+.form-notice{padding:.5rem .75rem;border-radius:6px}.form-notice.success{background:#e6f5ed}.form-notice.error{background:#ffe6e6}
+@media (max-width:760px){.header-inner{align-items:flex-start;padding:.75rem 0}.menu-list{gap:.6rem}.footer-grid{grid-template-columns:1fr}.whatsapp-float{bottom:.75rem;right:.75rem;padding:.6rem .9rem}}
